@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Enemies">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAECAEIAAAEAAAAAIAAAACAVAAAAAAAAQCAAAYEA=</HashCode>
+      <FileName>Enemies.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="way" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="NormalEnemy">
+    <Position X="3.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAA=</HashCode>
+      <FileName>Enemies.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Goblin">
+    <Position X="3.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ork">
+    <Position X="5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Enemies.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ogre">
+    <Position X="1.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Enemies.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spirit">
+    <Position X="5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABCAAAAAA=</HashCode>
+      <FileName>Enemies.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FieldObject">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAEAAAAABAAAAAAAAAAAAAAACAAYAA=</HashCode>
+      <FileName>FieldObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Way">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAABAAAAAAAAAAQAAAAAAAEAgAABgAAAAYAA=</HashCode>
+      <FileName>FindWay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Game::SpritesPack" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="Game::TextPack" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>iAIAcJQACQAAQCBgGAAAAAAAFECCMBAIAAAFAIHgEAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="mainMap" />
+      <Field Name="towerMassiv" />
+      <Field Name="enemiesMassiv" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Towers">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIUAAAgAAAJAAAAAAAAIEAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Towers.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="target" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="LightTower">
+    <Position X="12.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Towers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeavyTower">
+    <Position X="9.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Towers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecialTower">
+    <Position X="11" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Towers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Map">
+    <Position X="9.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAgA=</HashCode>
+      <FileName>Map.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

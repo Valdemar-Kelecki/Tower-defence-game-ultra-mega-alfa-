@@ -1,0 +1,56 @@
+﻿  Gnome_Fortress_ver_1.0.cpp
+  Source_Game.cpp
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(204,7): warning C4101: buf: неиспользованная локальная переменная
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(274,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(274,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(275,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(275,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(276,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(276,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(277,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(277,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(278,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(278,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(279,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(279,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(280,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(280,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(281,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(281,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(282,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(282,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(283,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(283,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(284,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(284,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(291,93): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(291,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(292,93): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(292,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(293,97): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(293,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(300,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(300,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(301,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(301,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(302,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(302,63): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(303,93): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(303,70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(310,150): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(310,101): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(312,141): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(312,92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(318,150): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(318,101): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(320,141): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(320,92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(326,152): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(326,103): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(327,155): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(327,106): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(368,85): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Source_Game.cpp(369,82): warning C4018: >=: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Gnome_Fortress_ver_1.0\Game.h(127): warning C4172: возвращение адреса локальной или временной переменной : ms
+  Gnome_Fortress_ver_1.0.vcxproj -> C:\Users\Overlord\source\repos\Gnome_Fortress_ver_1.0\Debug\Gnome_Fortress_ver_1.0.exe
